@@ -6,8 +6,9 @@ Implementation of a Convolutional Neural Network (CNN) to classify handwritten d
 
 ```
 .
-├── model.keras
 ├── digit.png
+├── LICENSE
+├── model.keras
 ├── predict.py
 ├── README.md
 ├── requirements.txt
